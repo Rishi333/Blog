@@ -1,36 +1,36 @@
 ---
+title: "The Rishi Bias"
 layout: splash
 permalink: /
 header:
-  overlay_color: "#5e616c"
-  overlay_image: mm-home-page-feature.jpg
-  cta_label: "<i class='fa fa-download'></i> Install Now"
-  cta_url: "/docs/quick-start-guide/"
-  caption:
-excerpt: 'A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server.<br /> <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.4.4">Latest release v3.4.4</a></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+  overlay_color: "#fff"
+  overlay_image: vase.jpg
+  cta_label: "Download"
+  cta_url: "https://github.com/mmistakes/minimal-mistakes/"
+excerpt: "We live in the Information Age. Thus through time I have formed the bias that there isn't any form of knowledge that I can't find on the web. This realization has become the seed to my life's work. This website is the tree that showcases my work, art, and ideas."
 feature_row:
-  - image_path: mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super Customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+  - image_path: platformRestaurant.jpg
+    alt: ""
+    title: "Platform Restaurant"
+    excerpt: "The Technology age has begun, and small restaurants are struggling to stay competitive, with their multi-billion dollar competitors. Platform Restaurant is the Solution from Heaven."
     url: "/docs/configuration/"
     btn_label: "Learn More"
-  - image_path: mm-responsive-feature.png
+  - image_path: Proofpoint.jpg
     alt: "fully responsive"
-    title: "Responsive Layouts"
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    title: "Software Engineer at Proofpoint"
+    excerpt: "Scaling to millions of users, I currently work on the Cloud Quarantine Service at Proofpoint"
     url: "/docs/layouts/"
     btn_label: "Learn More"
-  - image_path: mm-free-feature.png
-    alt: "100% free"
-    title: "100% Free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
+  - image_path: webSpider.jpg
+    alt: ""
+    title: "Email Web Scraping"
+    excerpt: "A powerful design that allows anyone to scrape the web for thousands of emails concurrently and in a scalable fashion. The possibilities are limitless!"
     url: "/docs/license/"
     btn_label: "Learn More"
 github:
   - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
-  - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
+  - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://github.com/Rishi333){: .btn .btn--twitter}'
 ---
 
 {% include feature_row id="intro" type="center" %}
