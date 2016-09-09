@@ -11,7 +11,7 @@ title                    : "Rishi's Vision"
 title_separator          : "-"
 name                     : &name "Rishi Bommu"
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
-url                      : "https://rishi333.github.io" # https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "" #"https://rishi333.github.io" # https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/Blog" # the subpath of your site, e.g. "/blog"
 repository               : "rishi333/Blog"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -57,7 +57,7 @@ yandex_site_verification :
 twitter:
   username               : # &twitter "unknown"
 facebook:
-  username               : &facebook "rishi bommu"
+  username               : &facebook "rishibommu"
   app_id                 :
   publisher              :
 og_image                 : "site-logo.png" # Open Graph/Twitter default site image
@@ -80,11 +80,11 @@ analytics:
 # Site Author
 author:
   name             : *name
-  avatar           : "michael-rose.jpg"
-  bio              : "Just another boring, tattooed, time traveling, designer."
-  location         : "Buffalo, NY"
+  avatar           : "Profile.jpg"
+  bio              : "Computer Scientist by trade, Inventor by day, Transcendentalist by night"
+  location         : "Fremont, CA"
   email            :
-  uri              : "https://mademistakes.com"
+  uri              : "https://rishi333.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,7 +102,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : *twitter
+  twitter          : # *twitter
   vine             :
   weibo            :
   xing             :

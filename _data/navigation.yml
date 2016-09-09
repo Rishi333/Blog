@@ -21,77 +21,87 @@ foo:
 
 # main links links
 main:
-  - title: "Quick-Start Guide"
+  - title: "Innovations"
     url: /docs/quick-start-guide/
 
-  - title: "About"
+  - title: "About Me"
     url: /about/
 
-  - title: "Sample Posts"
+  - title: "My Blog"
     url: /year-archive/
 
-  - title: "Sample Collections"
+  - title: "Resume and Downloads"
     url: /collection-archive/
 
-  - title: "Terms &amp; Privacy Policy"
+  - title: "What is Rishi doing now?"
     url: /terms/
 
 
 # documentation links
 docs:
-  - title: Getting Started
+
+  - title: Products
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
+      - title: "Web Scraper"
+        url: /docs/web-scraper/
+      - title: "Platform Restaurant"
         url: /docs/structure/
-      - title: "Installation"
+      - title: "iCanCode"
         url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
 
-  - title: Customization
+  - title: Industry Contributions
     children:
-      - title: "Configuration"
+      - title: "Proofpoint"
+        url: /docs/quick-start-guide/
+
+  - title: Research Papers
+    children:
+      - title: "Visual Programming Languages"
         url: /docs/configuration/
-      - title: "Navigation"
+      - title: "Visual Detection Research"
         url: /docs/navigation/
-      - title: "UI Text"
+      - title: "Math Origami Research"
         url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
+
+  - title: Software Projects
+    children:
+      - title: "Bitcoin Server"
+        url: /docs/authors
+      - title: "iOS-Rusher"
         url: /docs/layouts/
-
-  - title: Content
-    children:
-      - title: "Working with Posts"
+      - title: "Arch Linux"
         url: /docs/posts/
-      - title: "Working with Pages"
+      - title: "Emacs and Lisp"
         url: /docs/pages/
-      - title: "Working with Collections"
+      - title: "Apple Script and AI"
         url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
+      - title: "Physics and Games"
+        url: /docs/theGreatGame/
+
+  - title: Fun Projects
+    children:
+      - title: "Nintendo 3DS hacks"
         url: /docs/utility-classes/
-
-  - title: Extras
-    children:
-      - title: "Stylesheets"
+      - title: "Wifi Printer"
         url: /docs/stylesheets/
-      - title: "JavaScript"
+      - title: "Keygens"
         url: /docs/javascript/
-
-  - title: Meta
-    children:
-      - title: "History"
+      - title: "itouch Jail Breaking"
         url: /docs/history/
-      - title: "Contributing"
+      - title: "Librarian"
         url: /docs/contributing/
-      - title: "Old 2.2 Docs"
+      - title: "Magic"
+        url: /docs/contributing/
+      - title: "MapleStory"
+        url: /docs/contributing/
+      - title: "Xbox Madness"
+        url: /docs/contributing/
+
+  - title: Non-Technical Projects
+    children:
+      - title: "Salzburg Program"
         url: /docs/docs-2-2/
-      - title: "License"
+      - title: "Clubs"
         url: /docs/license/
-      - title: "Terms &amp; Privacy Policy"
+      - title: "Gum Bussiness"
         url: /terms/
