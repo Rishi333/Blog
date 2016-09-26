@@ -1,0 +1,12 @@
+---
+title: "Visual Programming Languages"
+permalink: /docs/visualProgrammingLanguages/
+excerpt: "Protecting the Ever-Changing now
+"
+modified: 2016-09-25
+---
+
+{% include base_path %}
+
+
+<iframe src="{{ base_path }}/images/vpl.pdf" width=70% height=100%>

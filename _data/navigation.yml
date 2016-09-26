@@ -22,7 +22,7 @@ foo:
 # main links links
 main:
   - title: "Innovations"
-    url: /docs/quick-start-guide/
+    url: /docs/web-scraper/
 
   - title: "About Me"
     url: /about/
@@ -31,10 +31,10 @@ main:
     url: /year-archive/
 
   - title: "Resume and Downloads"
-    url: /collection-archive/
+    url: /resume/
 
   - title: "What is Rishi doing now?"
-    url: /terms/
+    url: /current/
 
 
 # documentation links
@@ -45,63 +45,61 @@ docs:
       - title: "Web Scraper"
         url: /docs/web-scraper/
       - title: "Platform Restaurant"
-        url: /docs/structure/
+        url: /docs/platformRestaurant/
       - title: "iCanCode"
-        url: /docs/installation/
+        url: /docs/iCanCode/
 
   - title: Industry Contributions
     children:
       - title: "Proofpoint"
-        url: /docs/quick-start-guide/
+        url: /docs/proofpoint/
 
   - title: Research Papers
     children:
       - title: "Visual Programming Languages"
-        url: /docs/configuration/
+        url: /docs/visualProgrammingLanguages/
       - title: "Visual Detection Research"
-        url: /docs/navigation/
+        url: /docs/visualDetectionResearch/
       - title: "Math Origami Research"
-        url: /docs/ui-text/
+        url: /docs/mathOrigamiResearch/
 
   - title: Software Projects
     children:
       - title: "Bitcoin Server"
-        url: /docs/authors
+        url: /docs/bitcoin
       - title: "iOS-Rusher"
-        url: /docs/layouts/
+        url: /docs/rusher/
       - title: "Arch Linux"
-        url: /docs/posts/
+        url: /docs/archLinux/
       - title: "Emacs and Lisp"
-        url: /docs/pages/
+        url: /docs/emacs/
       - title: "Apple Script and AI"
-        url: /docs/collections/
+        url: /docs/appleScript/
       - title: "Physics and Games"
         url: /docs/theGreatGame/
+      - title: "Simple Rishi"
+        url : /docs/simpleRishi
 
-  - title: Fun Projects
+  - title: Other Skills
     children:
-      - title: "Nintendo 3DS hacks"
-        url: /docs/utility-classes/
-      - title: "Wifi Printer"
-        url: /docs/stylesheets/
-      - title: "Keygens"
-        url: /docs/javascript/
-      - title: "itouch Jail Breaking"
-        url: /docs/history/
-      - title: "Librarian"
-        url: /docs/contributing/
+#      - title: "Nintendo 3DS hacks"
+#        url: /docs/nintendo/
+#      - title: "Wifi Printer"
+#        url: /docs/stylesheets/
+#      - title: "itouch Jail Breaking"
+#        url: /docs/itouch/
+#     - title: "Librarian"
+#       url: /docs/contributing/
       - title: "Magic"
-        url: /docs/contributing/
-      - title: "MapleStory"
-        url: /docs/contributing/
-      - title: "Xbox Madness"
-        url: /docs/contributing/
+        url: /docs/magic/
+#      - title: "MapleStory Server"
+#        url: /docs/contributing/
 
-  - title: Non-Technical Projects
-    children:
-      - title: "Salzburg Program"
-        url: /docs/docs-2-2/
-      - title: "Clubs"
-        url: /docs/license/
-      - title: "Gum Bussiness"
-        url: /terms/
+#  - title: Non-Technical Projects
+#    children:
+#      - title: "Salzburg Program"
+#        url: /docs/docs-2-2/
+#      - title: "Clubs"
+#        url: /docs/license/
+#      - title: "Gum Bussiness"
+#        url: /terms/
